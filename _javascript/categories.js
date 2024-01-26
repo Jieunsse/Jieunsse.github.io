@@ -1,7 +1,9 @@
-import { basic, initSidebar, initTopbar } from './modules/layouts';
-import { categoryCollapse } from './modules/plugins';
+import { basic, initSidebar, initTopbar } from "./modules/layouts";
+import { categoryCollapse } from "./modules/plugins";
 
 basic();
 initSidebar();
 initTopbar();
 categoryCollapse();
+
+// for commit
