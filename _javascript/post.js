@@ -15,4 +15,3 @@ initLocaleDatetime();
 initClipboard();
 toc();
 basic();
-// for commit

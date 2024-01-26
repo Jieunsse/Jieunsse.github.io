@@ -5,5 +5,3 @@ basic();
 initSidebar();
 initTopbar();
 categoryCollapse();
-
-// for commit

@@ -5,4 +5,3 @@ basic();
 initSidebar();
 initTopbar();
 initLocaleDatetime();
-// for commit

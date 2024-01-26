@@ -7,4 +7,3 @@ initTopbar();
 loadImg();
 imgPopup();
 initClipboard();
-// for commit

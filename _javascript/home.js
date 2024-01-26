@@ -6,4 +6,3 @@ initSidebar();
 initTopbar();
 initLocaleDatetime();
 loadImg();
-// for commit
